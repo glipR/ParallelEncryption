@@ -1,5 +1,6 @@
 // Tiny Encryption Algorithm
-// Adapated from Wikipedia, which was in turn adapted from ...
+// Adapated from Wikipedia, which was in turn adapted from http://citeseer.ist.psu.edu/viewdoc/download;jsessionid=C08E8409ADF484095568965A1EBF3E5E?doi=10.1.1.45.281&rep=rep1&type=pdf
+// Written by Jackson Goerner (jgoe0001@student.monash.edu)
 
 #include <unistd.h>
 #include <stdio.h>
